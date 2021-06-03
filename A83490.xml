@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall votes of the Lords and Commons, concerning His Majesties message and propositions. Wherein is declared their intention to proceed against the traitors and rebels of the kingdome. And that the Earle of Essex shall (according to his commission) put the same in execution.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83490</idno><idno type="EEBO-CITATION">45789294</idno>
+  <idno type="VID">172605</idno>
+  <idno type="EEBO-PROQUEST">2248530085</idno>
+  
+            <idno type="STC">Wing E2302A</idno>
+            <idno type="STC">ESTC R234012</idno>
+            <idno type="OCLC">45789294</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172605)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall votes of the Lords and Commons, concerning His Majesties message and propositions. Wherein is declared their intention to proceed against the traitors and rebels of the kingdome. And that the Earle of Essex shall (according to his commission) put the same in execution.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Kit,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Aug. 30. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172605:1"/>
+            <p>SEVERALL VOTES OF THE Lords and Commons, Concerning His Majesties <hi>Message</hi> and <hi>Propositions.</hi>
+            </p>
+            <p>Wherein is declared their intention to proceed against the Traitors and Rebels of the Kingdome.</p>
+            <p>
+               <hi>And that the Earle of</hi> Essex <hi>shall (according to his Com<g ref="char:EOLhyphen"/>mission▪ put the same in execution.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Kit Aug.</hi> 30. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172605:2"/>
+            <pb n="1" facs="tcp:172605:2"/>
+            <head>The Kings Majesties PROPOSITIONS TO THE HIGH COVRT OF <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most excellent Ma<g ref="char:EOLhyphen"/>jesty having severall times and by sundry practises both in his owne person, and by his Mini<g ref="char:EOLhyphen"/>sters, endeavoured to streng<g ref="char:EOLhyphen"/>then himselfe, and to raise an Armie against his Parliament, being seduced thereto by those evill affected and bloud-thirsty Papists, who have by their practi<g ref="char:EOLhyphen"/>ces endeavoured, and do daily endeavour to ruine both our Religion, and destroy the whole King<g ref="char:EOLhyphen"/>dome; but finding that their designes are made frustrate by the providence of Almighty God, and the endeavours of the Parliament, whose
+<pb n="2" facs="tcp:172605:3"/> active care and timely prevention hath given a curb to their head-stoing malice, and almost re<g ref="char:EOLhyphen"/>turned their plots upon themselves.</p>
+            <p>Yet so full of malice are they, that one designe hath usherd on another, as may appeare by their practices from the beginning of this present Parli<g ref="char:EOLhyphen"/>ament to this very day.</p>
+            <list>
+               <item>
+                  <hi>First, they perswaded His Majesty to withdraw himselfe from his Parli<g ref="char:EOLhyphen"/>ament.</hi>
+               </item>
+               <item>
+                  <hi>Secondly, they perswaded his Ma<g ref="char:EOLhyphen"/>jesty to take the Prince and the Duke of York from the protection of the Par<g ref="char:EOLhyphen"/>liament.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly, they perswaded His Ma<g ref="char:EOLhyphen"/>jesty into a beliefe that his Person and Honour could not be safe, during his residence in London, or neere his Par<g ref="char:EOLhyphen"/>liament.</hi>
+               </item>
+               <item>
+                  <hi>Fourthly, they perswaded his Ma<g ref="char:EOLhyphen"/>jesty, that the Parliament, or some particular members of the same, had a designe to subvert the Fundamentall
+<pb n="3" facs="tcp:172605:3"/> Laws of the Kingdome, and to alter Religion.</hi>
+               </item>
+               <item>
+                  <hi>Fiftly, they caused His Majesty, having left London, to make his resi<g ref="char:EOLhyphen"/>dence in Yorke, being a place remote from the Parliament, and (as they conceived) fittest for their rebellious and traiterous designes.</hi>
+               </item>
+               <item>
+                  <hi>Sixtly, they perswaded His Ma<g ref="char:EOLhyphen"/>jesty to levie a War against his Parli<g ref="char:EOLhyphen"/>ament, under c pretence of raising a<g ref="char:EOLhyphen"/>guard for his Royall Person.</hi>
+               </item>
+               <item>
+                  <hi>Seventhly, they caused his Ma<g ref="char:EOLhyphen"/>jesty (having raised an Armie) to be<g ref="char:EOLhyphen"/>siege Hull, and to proclaime Sir</hi> John Hotham <hi>Traitor, a member of the Parliament, in whom resides both vertue and valour.</hi>
+               </item>
+               <item>
+                  <hi>Eighthly, they caused His Ma<g ref="char:EOLhyphen"/>jesty to ordain a Commission of Array for
+<pb n="4" facs="tcp:172605:4"/> every Countie; which Commissioners have opposed each Countie of this King<g ref="char:EOLhyphen"/>dome, causing much bloud to be shed.</hi>
+               </item>
+               <item>
+                  <hi>Ninthly, they have caused His Majesty to set up his Standard at No<g ref="char:EOLhyphen"/>tingham, and to march up against Co<g ref="char:EOLhyphen"/>ventry with his Armie; but being re<g ref="char:EOLhyphen"/>pulst by the well affected partie of that Citie, they were forced to retreat, and at their retreat, by the providence of God, they were repulst by the Lord</hi> Grey, <hi>and some of them fled, others ta<g ref="char:EOLhyphen"/>ken prisoners.</hi>
+               </item>
+            </list>
+            <p>All which his Majesty taking into his Princely consideration, and finding the gteat misery that is like to ensue to this Nation if this civill warre should continue; hath beene gratiously pleased to propound severall propositions for pacification, sending them by the Earle of <hi>Dorset,</hi> the Earle of <hi>Southampton,</hi> and Sir <hi>Jobn Culpepper,</hi> to the Parlia<g ref="char:EOLhyphen"/>ment for their assent thereunto, being desirous (notwithstanding though he have set up his Stan<g ref="char:EOLhyphen"/>dard at <hi>Nottinham</hi>) yet so farre his tender love and affection to his <hi>English</hi> Subjects doth extend,
+<pb n="5" facs="tcp:172605:4"/> that he was gratiously pleased to let them under<g ref="char:EOLhyphen"/>stand his desires, in these insuing Propositions.</p>
+            <list>
+               <item>1. <hi>That they would decline the be<g ref="char:EOLhyphen"/>gining of a Warre, and withdraw their present forces.</hi>
+               </item>
+               <item>2. <hi>That they would declare against tumults, and punish the Authors.</hi>
+               </item>
+               <item>3. <hi>That they would nominate a se<g ref="char:EOLhyphen"/>lect Committee to goe to</hi> Nottingham <hi>to treate with others chosen by his Ma<g ref="char:EOLhyphen"/>iesty for that purpose.</hi>
+               </item>
+               <item>4. <hi>That his Maiesty was willing to stand to such a treaty of Pacificati<g ref="char:EOLhyphen"/>on as they could agree of.</hi>
+               </item>
+            </list>
+            <p>The summe of his Majesties desires being read in the House, the Lords and Commons (no way questioning his Majesties Royall intention) but knowing that so long as his Majesty is invironed with so many wicked Councellors and evill affected persons, which ayme at the destruction of the King and Kingdome, who for feare of the Iustice of the Law, seeke the subversion of Justice, and who to advance popery seeke the extirpation of the true Protestant Religion, such who make
+<pb n="6" facs="tcp:172605:5"/> his Majesties Anthority a Cloake for their villany to the great dishonour of his Majesty, causing the Subject to be disaffected by reason of the mani<g ref="char:EOLhyphen"/>fold oppressions which they have suffered by those who have pretended those things to be done by his Majesties Authority; Wherefore knowing how many times his Majesty hath beene seduced by these wicked <hi>Achans,</hi> they have small reason to hope that a good effect can be produced by a treatie during their residence so neare the Kings person, they of all things hating peace, warre be<g ref="char:EOLhyphen"/>ing the Crowne of all their Actions, and the end of all their plots and stratagems.</p>
+            <p>Wherefore after some debate thereon, it was voted in both Houses, that in regard his Majesty did still adhere to the councells of those that were evill affected to the Parliament, and had proclai<g ref="char:EOLhyphen"/>med the Earle of <hi>Essex</hi> Traitor, withall that do adhere to him, that unlesse his Maiesty shall recall the said Proclamations and take downe his Stan<g ref="char:EOLhyphen"/>dard, they cannot condiscend to his demands, t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s also feared that these particulars are framed by Evill Councellors, onely to gaine time of the par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>And therefore it is resolved that the Earle of <hi>Essex</hi> should goe on according to his Commission to subdue the Rebells and Tray tors of this State and Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
